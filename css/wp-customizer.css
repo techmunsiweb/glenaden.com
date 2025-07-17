@@ -1,3 +1,4 @@
-body{
-
+.header-top .menu{
+    display: flex;
+    list-style: none;
 }
