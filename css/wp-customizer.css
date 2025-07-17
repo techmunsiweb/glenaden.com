@@ -1,4 +1,17 @@
 .header-top .menu{
     display: flex;
     list-style: none;
+    margin-bottom: 0;
+}
+.header-top .menu a{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+
+    color: var(--color-FFF);
+    font-size: var(--fs-20);
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
 }
