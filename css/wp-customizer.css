@@ -27,6 +27,8 @@ ul.navmenu {
     justify-content: end;
     margin-right: 35px;
     margin-bottom: 0;
+    margin-left: auto;
+    margin-right: 0;
 }
 .navmenu a{
     color: var(--color-235FAC);
@@ -35,6 +37,7 @@ ul.navmenu {
     font-weight: 500;
     line-height: normal;
     text-transform: capitalize;
+    text-decoration: none;
 }
 .navmenu li{
     position: relative;
@@ -49,7 +52,13 @@ ul.navmenu {
     top: 0;
     right: -19px;
 }
-
+header .navbar-text{
+    margin-left: auto;
+    margin-right: 0;
+}
+.navmenu li:last-child a::after{
+    display: none;
+}
 /* Responsive css  */
 @media(max-width: 991px){
     .header-top .menu {
