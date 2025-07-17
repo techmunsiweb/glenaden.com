@@ -18,7 +18,7 @@
 }
 
 ul.navmenu {
-display: flex;
+    display: flex;
     list-style: none;
     padding-left: 0;
     max-width: 900px;
@@ -28,7 +28,14 @@ display: flex;
     margin-right: 35px;
     margin-bottom: 0;
 }
-
+.navmenu a{
+    color: var(--color-235FAC);
+    font-size: var(--fs-20);
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
 
 /* Responsive css  */
 @media(max-width: 991px){
