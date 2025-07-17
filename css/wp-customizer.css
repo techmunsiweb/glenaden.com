@@ -88,8 +88,17 @@ header .navbar-text{
     }
     ul.navmenu {
         display: block;
+        gap: 10px;
+        padding-top: 25px;
+        padding-bottom: 25px;
     }
     ul.navmenu a::after{
         display: none;
+    }
+    header .navbar-text {
+        margin-left: 0;
+    }
+    .navmenu li{
+        padding-bottom: 10px;
     }
 }
