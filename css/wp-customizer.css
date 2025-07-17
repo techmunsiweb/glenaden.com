@@ -36,6 +36,19 @@ ul.navmenu {
     line-height: normal;
     text-transform: capitalize;
 }
+.navmenu li{
+    position: relative;
+}
+
+.navmenu a::after{
+    content: '';
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    background-color: var(--color-235FAC);
+    top: 0;
+    right: -19px;
+}
 
 /* Responsive css  */
 @media(max-width: 991px){
