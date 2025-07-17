@@ -16,3 +16,15 @@
     line-height: normal;
     text-transform: uppercase;
 }
+
+
+
+/* Responsive css  */
+@media(max-width: 991px){
+    .header-top .menu {
+        display: grid;
+        row-gap: 10px;
+        margin-top: 25px;
+        padding-bottom: 25px;
+    }
+}
