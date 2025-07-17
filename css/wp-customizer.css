@@ -17,6 +17,17 @@
     text-transform: uppercase;
 }
 
+ul.navmenu {
+display: flex;
+    list-style: none;
+    padding-left: 0;
+    max-width: 900px;
+    width: 100%;
+    column-gap: 35px;
+    justify-content: end;
+    margin-right: 35px;
+    margin-bottom: 0;
+}
 
 
 /* Responsive css  */
