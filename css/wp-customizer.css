@@ -83,6 +83,11 @@ header .navbar-text{
     text-overflow: ellipsis;
 }
 
+@media(min-width: 992px){
+    .blog-page .card-body{
+        min-height: 249px;
+    }
+}
 /* Responsive css  */
 @media(max-width: 1599px){
     ul.navmenu {
