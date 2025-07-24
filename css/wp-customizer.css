@@ -75,7 +75,7 @@ header .navbar-text{
 .entry-content h3{
     margin-top: 30px;
 }
-.blog-page .cart .card-body h6{
+.blog-page .card .card-body h6{
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
