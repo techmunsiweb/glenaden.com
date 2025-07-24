@@ -59,7 +59,9 @@ header .navbar-text{
 .navmenu li:last-child a::after{
     display: none;
 }
-.comments-area{
+.comments-area,
+.entry-footer,
+.navigation.post-navigation{
     display: none;
 }
 
