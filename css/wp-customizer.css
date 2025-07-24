@@ -71,6 +71,10 @@ header .navbar-text{
 .entry-content{
     margin-bottom: 90px;
 }
+.entry-content h2,
+.entry-content h3{
+    margin-top: 20px;
+}
 
 /* Responsive css  */
 @media(max-width: 1599px){
