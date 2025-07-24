@@ -59,6 +59,10 @@ header .navbar-text{
 .navmenu li:last-child a::after{
     display: none;
 }
+.comments-area{
+    display: none;
+}
+
 /* Responsive css  */
 @media(max-width: 1599px){
     ul.navmenu {
