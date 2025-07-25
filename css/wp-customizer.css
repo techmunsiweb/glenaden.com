@@ -90,6 +90,8 @@ header .navbar-text{
     max-width: 900px;
     height: 700px;
     overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 5px #00000029;
 }
 .contentsingelimage .post-thumbnail img{
     width: 100%;
