@@ -116,6 +116,9 @@ header .navbar-text{
 .current-menu-item a{
     font-weight: 600;
 }
+.google-reviews {
+    margin-bottom: 90px;
+}
 
 @media(min-width: 992px){
     .blog-page .card-body{
