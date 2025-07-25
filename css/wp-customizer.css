@@ -148,4 +148,7 @@ header .navbar-text{
     .navmenu li{
         padding-bottom: 10px;
     }
+    .contentsingelimage {
+        margin-top: 50px;
+    }
 }
