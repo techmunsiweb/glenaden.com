@@ -101,6 +101,13 @@ header .navbar-text{
     height: 100% !important;
     object-fit: cover;
 }
+
+.blog-img {
+    width: 272px;
+    height: 170px;
+    overflow: hidden;
+}
+
 @media(min-width: 992px){
     .blog-page .card-body{
         min-height: 249px;
