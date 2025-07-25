@@ -113,6 +113,9 @@ header .navbar-text{
     object-fit: cover;
     border-radius: 10px;
 }
+.current-menu-item a{
+    font-weight: 600;
+}
 
 @media(min-width: 992px){
     .blog-page .card-body{
