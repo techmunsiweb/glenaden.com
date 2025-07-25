@@ -82,7 +82,20 @@ header .navbar-text{
     overflow: hidden;
     text-overflow: ellipsis;
 }
-
+.contentsingelimage .entry-title{
+    margin-bottom: 20px;
+}
+.contentsingelimage .post-thumbnail{
+    margin-bottom: 20px;
+    max-width: 900px;
+    height: 700px;
+    overflow: hidden;
+}
+.contentsingelimage .post-thumbnail img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 @media(min-width: 992px){
     .blog-page .card-body{
         min-height: 249px;
