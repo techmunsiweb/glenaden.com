@@ -92,6 +92,9 @@ header .navbar-text{
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 1px 1px 10px 5px #00000029;
+    display: grid;
+    align-items: center;
+    justify-content: center;
 }
 .contentsingelimage .post-thumbnail img{
     width: 100%;
