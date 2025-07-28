@@ -137,6 +137,13 @@ header .navbar-text{
 .hover-effect {
     background: rgb(81 142 219 / 75%);
 }
+.faq-section .accordion-header .accordion-button{
+    background-color: #518edb;
+    color: #ffffff;
+}
+.accordion-item.active .accordion-button:not(.collapsed)::after {
+    filter: brightness(0%) invert(1);
+}
 @media(min-width: 992px){
     .blog-page .card-body{
         min-height: 249px;
