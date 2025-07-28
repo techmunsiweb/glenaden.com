@@ -141,7 +141,7 @@ header .navbar-text{
     background-color: #518edb;
     color: #ffffff;
 }
-.accordion-item.active .accordion-button:not(.collapsed)::after {
+.accordion-button:not(.collapsed)::after {
     filter: brightness(0%) invert(1);
 }
 @media(min-width: 992px){
