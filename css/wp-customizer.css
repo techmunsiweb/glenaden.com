@@ -134,6 +134,9 @@ header .navbar-text{
 .items-3-overlay:hover .overlay-inner {
     background: #518edbc4;
 }
+.hover-effect {
+    background: rgb(81 142 219 / 75%);
+}
 @media(min-width: 992px){
     .blog-page .card-body{
         min-height: 249px;
