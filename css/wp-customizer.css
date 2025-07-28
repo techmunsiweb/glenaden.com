@@ -127,6 +127,9 @@ header .navbar-text{
 .page-template-reviews .future-quote{
     padding-bottom: 0px;
 }
+.page-template-reviews .google-reviews{
+    margin-bottom: 0px;
+}
 
 @media(min-width: 992px){
     .blog-page .card-body{
