@@ -144,6 +144,10 @@ header .navbar-text{
 .accordion-button:not(.collapsed)::after {
     filter: brightness(0%) invert(1);
 }
+.page-template-partner-with-us .future-quote{
+    padding-bottom: 0;
+}
+
 @media(min-width: 992px){
     .blog-page .card-body{
         min-height: 249px;
