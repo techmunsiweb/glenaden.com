@@ -147,7 +147,9 @@ header .navbar-text{
 .page-template-partner-with-us .future-quote{
     padding-bottom: 0;
 }
-
+.page-template-major-home-edition .future-sec{
+    padding-bottom: 50px;
+}
 @media(min-width: 992px){
     .blog-page .card-body{
         min-height: 249px;
