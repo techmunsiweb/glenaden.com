@@ -124,6 +124,10 @@ header .navbar-text{
     padding-top: 70px;
 }
 
+.page-template-reviews .future-quote{
+    padding-bottom: 0px;
+}
+
 @media(min-width: 992px){
     .blog-page .card-body{
         min-height: 249px;
