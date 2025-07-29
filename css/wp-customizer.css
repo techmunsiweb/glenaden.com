@@ -150,6 +150,12 @@ header .navbar-text{
 .page-template-major-home-edition .future-sec{
     padding-bottom: 50px;
 }
+.sub-footer {
+    background-color: #518edb;
+}
+.sub-footer .textwidget p{
+   margin-bottom: 0;
+}
 @media(min-width: 992px){
     .blog-page .card-body{
         min-height: 249px;
