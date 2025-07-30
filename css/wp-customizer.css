@@ -156,6 +156,11 @@ header .navbar-text{
 .sub-footer .textwidget p{
    margin-bottom: 0;
 }
+
+.banner-items video {
+    object-fit: cover;
+}
+
 @media(min-width: 992px){
     .blog-page .card-body{
         min-height: 249px;
