@@ -217,3 +217,10 @@ header .navbar-text{
         margin-top: 50px;
     }
 }
+
+@media(max-width: 767px){
+    .modal-closebtn {
+        top: -2px;
+        right: -3px;
+    }
+}
