@@ -219,6 +219,9 @@ header .navbar-text{
     .suits-content-inner {
         margin-left: 0;
     }
+    ul.navmenu{
+        margin-left: 0;
+    }
 }
 
 @media(max-width: 767px){
