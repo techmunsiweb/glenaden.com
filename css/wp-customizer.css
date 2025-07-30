@@ -216,6 +216,9 @@ header .navbar-text{
     .contentsingelimage {
         margin-top: 50px;
     }
+    .suits-content-inner {
+        margin-left: 0;
+    }
 }
 
 @media(max-width: 767px){
