@@ -230,3 +230,10 @@ header .navbar-text{
         right: -3px;
     }
 }
+
+
+/* _____________ 22-August-2025 ______________ */
+:root{
+    --fs-20: 14px;
+    line-height: calc(var(--fs-20) + 5px);
+}
