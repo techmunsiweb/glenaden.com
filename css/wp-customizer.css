@@ -237,4 +237,10 @@ header .navbar-text{
     :root{
         --fs-20: 14px;
     }
+    .btn.btn-light {
+        padding: 7px 0px;
+    }
+    .form-flex .form-content:nth-child(1){
+        background-size: cover;
+    }
 }
